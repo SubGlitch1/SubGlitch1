@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=SubGlitch1?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=SubGlitch1&style=for-the-badge)
